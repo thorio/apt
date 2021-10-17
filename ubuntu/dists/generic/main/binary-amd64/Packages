@@ -1,0 +1,282 @@
+Package: alacritty
+Version: 0.10.1+1-20220619T020303~jammy-92362428
+Architecture: amd64
+Maintainer: Michael Aaron Murphy <michael@system76.com>
+Installed-Size: 5829
+Depends: libc6 (>= 2.34), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.8), libgcc-s1 (>= 4.2), libxcb1 (>= 1.11.1)
+Recommends: xclip
+Homepage: https://github.com/jwilm/alacritty
+Priority: optional
+Section: rust
+Filename: pool/main/a/alacritty/alacritty_0.10.1+1-20220619T020303~jammy-92362428_amd64.deb
+Size: 1883002
+SHA256: c300f489b55f3f798fed50d9308d888d24a5641d5fabe8210eb2d197c1d7d94e
+SHA1: c14af40d63178e732bc12ef14df364171a188367
+MD5sum: 297d5cf83147b1f8fcec83a88e43f284
+Description: GPU-accelerated terminal emulator
+ GPU-accelerated terminal emulator, written in Rust
+
+Package: blent
+Architecture: amd64
+Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52
+Priority: extra
+Section: misc
+Filename: pool/main/b/blent/blent_0.4.1_amd64.deb
+Size: 7712496
+SHA256: 48efdf28cb67ba2bb8ae4151bf5b9e132ac0a0aa2fcf81300b25502296ce6212
+SHA1: 05c2b861dae7cf21c5991bbb0e22aafabbd67bef
+MD5sum: 166515ed48ab4dc6c8bc9c766cbdd01f
+Description: Package Description
+Installed-Size: 23686
+Maintainer: Thorou
+Version: 0.4.1
+
+Package: code
+Version: 1.68.1-1655263094
+Depends: libnss3 (>= 2:3.26), gnupg, apt, libxkbfile1, libsecret-1-0, libgtk-3-0 (>= 3.10.0), libxss1, libgbm1
+Architecture: amd64
+Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
+Homepage: https://code.visualstudio.com/
+Installed-Size: 342112
+Provides: visual-studio-code
+Conflicts: visual-studio-code
+Replaces: visual-studio-code
+Priority: optional
+Section: devel
+Filename: pool/main/c/code/code_1.68.1-1655263094_amd64.deb
+Size: 83667280
+SHA256: 19f21cb2481129070d4a5db4b47b20e93715c8e7696d4d4b9dddc3c229c9c495
+SHA1: 240ec9a55df5aaf45c2b5cc443e85a48b67988c0
+MD5sum: 8bb061d7bdf55e27ef9aae9d0ef236c4
+Description: Code editing. Redefined.
+ Visual Studio Code is a new choice of tool that combines the simplicity of
+ a code editor with what developers need for the core edit-build-debug cycle.
+ See https://code.visualstudio.com/docs/setup/linux for installation
+ instructions and FAQ.
+
+Package: discord
+Version: 0.0.18
+Depends: libc6, libasound2, libatomic1, libgconf-2-4, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6, libc++1
+Recommends: libappindicator1 | libayatana-appindicator1
+Homepage: https://discord.com
+Architecture: amd64
+Installed-Size: 184108
+Maintainer: Discord Maintainer Team <native-team@discord.com>
+Priority: optional
+Section: net
+Filename: pool/main/d/discord/discord_0.0.18_amd64.deb
+Size: 77104046
+SHA256: 30758697cb4a6c6074fdfd05e827f52d1daeecb426ff2d468d4c65e75673931a
+SHA1: 34e15863df464bc40420c70c8c43e35b98e867d6
+MD5sum: 53838a0b5a4e51363bb6227c806f076b
+Description: Chat for Communities and Friends
+ Discord is the easiest way to communicate over voice, video, and text. Chat,
+ hang out, and stay close with your friends and communities.
+
+Package: espanso
+Version: 2.1.5-beta
+Architecture: amd64
+Homepage: https://github.com/federico-terzi/espanso
+Maintainer: Federico Terzi <federicoterzi96@gmail.com>
+Installed-Size: 11341
+Depends: libxcb1, libgcc1 (>= 1:4.2), libx11-6, libnotify-bin, libssl1.1 (>= 1.1.0), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libxkbcommon0, systemd, libdbus-1-3 (>= 1.9.14), xclip, libc6 (>= 2.18), libstdc++6 (>= 6), libwxgtk3.0-gtk3-0v5, libwxgtk3.0-gtk3-0v5 (>= 3.0.4+dfsg), libxkbcommon0 (>= 0.5.0), libxtst6
+Priority: optional
+Section: utility
+Filename: pool/main/e/espanso/espanso_2.1.5-beta_amd64.deb
+Size: 2937192
+SHA256: 7c5468fdccaadb3eb24dce2e795244ed70625c6b74aa94232acb0b08fe2e8c62
+SHA1: d6c09f3c4567013f51cb8b10996c746a0353a7d3
+MD5sum: 2eb9758b050ec0de2529c528fe9c6c30
+Description: Cross-platform Text Expander written in Rust
+ ![espanso](images/logo_extended.png)
+ .
+ > A cross-platform Text Expander written in Rust
+ .
+ ![GitHub release (latest by
+ date)](https://img.shields.io/github/v/release/federico-terzi/espanso)
+ ![Language](https://img.shields.io/badge/language-rust-orange)
+ ![Platforms](https://img.shields.io/badge/platforms-Windows%2C%20macOS%20and%20Linux-blue)
+ ![License](https://img.shields.io/github/license/federico-terzi/espanso)
+ .
+ ![example](images/example.gif)
+ .
+ Visit the [espanso website](https://espanso.org).
+ .
+ #### What is a Text Expander?
+ .
+ A *text expander* is a program that detects when you type
+ a specific **keyword** and replaces it with **something else**. 
+ This is useful in many ways:
+ * **Save a lot of typing**, expanding common sentences.
+ * Create **system-wide** code snippets.
+ * Execute **custom scripts**
+ * Use **emojis** like a pro.
+ .
+ ___
+ .
+ ## Key Features
+ .
+ * Works on **Windows**, **macOS** and **Linux**
+ * Works with almost **any program**
+ * Works with **Emojis** 😄
+ * Works with **Images**
+ * Includes a powerful **Search Bar** 🔎
+ * **Date** expansion support
+ * **Custom scripts** support
+ * **Shell commands** support
+ * **App-specific** configurations
+ * Support [Forms](https://espanso.org/docs/forms/)
+ * Expandable with **packages**
+ * Built-in **package manager** for [espanso hub](https://hub.espanso.org/)
+ * File based configuration
+ * Support Regex triggers
+ * Experimental Wayland support
+ .
+ ## Get Started
+ .
+ Visit the [official documentation](https://espanso.org/docs/).
+ .
+ ## Support
+ .
+ If you need some help to setup espanso, want to ask a question or simply get
+ involved
+ in the community, [Join the official
+ Subreddit](https://www.reddit.com/r/espanso/)! :)
+ .
+ .
+ .
+ ## Donations
+ .
+ espanso is a free, open source software developed in my (little) spare time.
+ If you liked the project and would like to support further development, 
+ please consider making a small donation, it really helps :)
+ .
+ [![Donate with
+ PayPal](images/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHNLR5DRS267E&source=url)
+ .
+ ## Contributors
+ .
+ Many people helped the project along the way, thank you to all of you!
+ .
+ <a href="https://github.com/federico-terzi/espanso/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=federico-terzi/espanso" />
+ </a>
+ .
+ ## Remarks
+ .
+ * Thanks to [libxdo](https://github.com/jordansissel/xdotool) and
+ [xclip](https://github.com/astrand/xclip), used to implement the Linux port.
+ * Thanks to [libxkbcommon](https://xkbcommon.org/) and
+ [wl-clipboard](https://github.com/bugaevc/wl-clipboard), used to implement the
+ Wayland port.
+ * Thanks to [wxWidgets](https://www.wxwidgets.org/) for providing a powerful
+ cross-platform GUI library.
+ .
+ ## License
+ .
+ espanso was created by [Federico Terzi](http://federicoterzi.com)
+ and is licensed under the [GPL-3.0 license](/LICENSE).
+
+Package: foliate
+Version: 2.6.4-1~ubuntu22.04.1
+Architecture: all
+Maintainer: John Factotum <50942278+johnfactotum@users.noreply.github.com>
+Installed-Size: 5409
+Depends: dconf-gsettings-backend | gsettings-backend, gjs (>= 1.52), gir1.2-webkit2-4.0
+Recommends: gir1.2-gspell-1, gir1.2-handy-0.0, iso-codes (>= 3.67)
+Suggests: gir1.2-tracker-3.0, espeak, festival, sdcv, dictd, dictd-dictionary, hyphen-af, hyphen-as, hyphen-bg, hyphen-bn, hyphen-ca, hyphen-cs, hyphen-da, hyphen-de, hyphen-el, hyphen-en-ca, hyphen-en-gb, hyphen-en-us, hyphen-es, hyphen-fi, hyphen-fr, hyphen-ga, hyphen-gl, hyphen-gu, hyphen-hi, hyphen-hr, hyphen-hu, hyphen-id, hyphen-is, hyphen-it, hyphen-kn, hyphen-lt, hyphen-lv, hyphen-ml, hyphen-mr, hyphen-nl, hyphen-no, hyphen-or, hyphen-pa, hyphen-pl, hyphen-pt-br, hyphen-pt-pt, hyphen-ro, hyphen-ru, hyphen-show, hyphen-sk, hyphen-sl, hyphen-sr, hyphen-sv, hyphen-ta, hyphen-te, hyphen-uk, hyphen-zu
+Homepage: https://johnfactotum.github.io/foliate/
+Priority: optional
+Section: gnome
+Filename: pool/main/f/foliate/foliate_2.6.4-1~ubuntu22.04.1_all.deb
+Size: 1001182
+SHA256: 7a084aab2b8945b9174caa9bb8d2e81b5becabd3076bfa7636fb4a411935562c
+SHA1: 8e4ace707471dc55cfc7aeaa67cc0a4d98dddab0
+MD5sum: 7a8419cda1c6866724d426d1a35dab43
+Description: Simple and modern eBook viewer
+ A simple and modern GTK eBook viewer, built with GJS and Epub.js.
+ Supported formats:
+   EPUB (.epub, .epub3)
+   Kindle (.azw, .azw3) and Mobipocket (.mobi)
+   FictionBook (.fb2, .fb2.zip)
+   Comic book archive (.cbr, .cbz, .cbt, .cb7)
+   Plain text (.txt)
+ Single-column, two-column, or continuous scrolling layouts
+ Adjust font, line-spacing, and margins
+ Customize colors and brightness
+ Reading progress slider with chapter marks
+ Bookmarks and annotations
+ Find in book
+ Open footnotes in popovers
+ Touchpad gestures—use two-finger swipe to turn the page
+ Quick dictionary lookup with Wiktionary, Wikipedia, dictd,
+ and sdcv, or translate text with Google Translate
+ Basic text-to-speech support with eSpeak NG and Festival
+
+Package: google-chrome-stable
+Version: 102.0.5005.115-1
+Architecture: amd64
+Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
+Installed-Size: 270764
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.16), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.5.12), libdrm2 (>= 2.4.38), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.4.1), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Provides: www-browser
+Priority: optional
+Section: web
+Filename: pool/main/g/google-chrome-stable/google-chrome-stable_102.0.5005.115-1_amd64.deb
+Size: 84778724
+SHA256: fed40f65b39ccab27575f1a6eb8e167bb2acc54c519834294a795bb998d6622c
+SHA1: 3f6f1165cd05ea473a5d3caf98aec05ba64f1f14
+MD5sum: f4f1b7dd6cd973c6d5fa5d2850678fa5
+Description: The web browser from Google
+ Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
+Package: libinput-gestures
+Version: 2.69
+Architecture: all
+Maintainer: thorio <thorio.git@gmail.com>
+Depends: libinput-tools, python3, xdotool
+Recommends: wmctrl
+Homepage: https://github.com/thorio/libinput-gestures
+Priority: optional
+Section: utils
+Filename: pool/main/libi/libinput-gestures/libinput-gestures_2.69_all.deb
+Size: 17512
+SHA256: 03837b5ce8901172bc236603538b2218a46389c37786b887cd701a97fa359a13
+SHA1: ce1fb2b84e2e7c6052915432b070b5ed4780eaf5
+MD5sum: 89c0f8658865791df538e347d17a9754
+Description: Libinput-gestures is a utility which reads libinput
+  gestures from your touchpad and maps them to gestures you configure in a
+  configuration file. Each gesture can be configured to activate a shell
+  command which is typically an xdotool command to action
+  desktop/window/application keyboard combinations and commands.
+
+Package: plexamp
+Version: 4.2.2
+Maintainer: thorio <thorio.git@gmail.com>
+Architecture: amd64
+Homepage: https://plexamp.com/#downloads
+Priority: optional
+Section: sound
+Filename: pool/main/p/plexamp/plexamp_4.2.2_amd64.deb
+Size: 85493212
+SHA256: 2acec7885bbf066253125c9040413bfd7a991bce0c2471ac6f95ba3f8c90080a
+SHA1: 6e1376dbefc84672f075ba4efb0adeb642d5d840
+MD5sum: 84da727f13c06a31dd9cbd7aaf6c3f7f
+Description: A beautiful Plex music player for audiophiles, curators, and hipsters.
+
+Package: sunset-cursor-theme
+Version: 1.0
+Architecture: all
+Maintainer: thorio <thorio.git@gmail.com>
+Homepage: https://github.com/thorio/packaging/tree/master/sunset-cursor-theme
+Priority: optional
+Section: x11
+Filename: pool/main/s/sunset-cursor-theme/sunset-cursor-theme_1.0_all.deb
+Size: 138416
+SHA256: d9d8ac4088b9d9ad3ad37f1545e3395181cdecf05c6b7ce460f4a475ecca8523
+SHA1: 677618f485c283c997f2adc91d0ed82ad62bed7d
+MD5sum: 06546d0e81611bdc98a15cc20077f025
+Description: X11 cursor theme, made by yeyushengfan258 over at https://www.gnome-look.org/p/1602560
+

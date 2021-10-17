@@ -1,0 +1,4 @@
+*.deb
+
+plexamp/usr/bin/plexamp
+plexamp/usr/share/plexamp/plexamp

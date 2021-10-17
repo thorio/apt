@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: thorio.github.io/apt/ubuntu
+Label: thorio.github.io/apt/ubuntu
+Codename: generic
+Date: Sun, 19 Jun 2022 17:40:59 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ 578086ca5033627a83e6f31680b71176 12210 main/binary-amd64/Packages
+ 839bb092e85c0edb6b31b6b5bfdca674 5402 main/binary-amd64/Packages.gz
+ 5c705f9e3865ecc465f7e6aecbeea103 140 main/binary-amd64/Release
+SHA1:
+ 2610b09ad2c2a7e4e380643ef28099fc107884b4 12210 main/binary-amd64/Packages
+ 9b66142c6c83adff3190d0bb3e699ccb6704797a 5402 main/binary-amd64/Packages.gz
+ 700bef10018fc6acf2fa3ef0d4bce9272a2d661f 140 main/binary-amd64/Release
+SHA256:
+ fddebe45173d162ce048817e32db3f99007edcb15cdd00253733815b38e8264d 12210 main/binary-amd64/Packages
+ 4cd148c88a87de8c65666c0ab351181cc559a16e9ff5208bd00be990a09444e6 5402 main/binary-amd64/Packages.gz
+ de26dba19111b820bd8803f6fdd9ce7f2a5bcd71980900c643755ce5067f0d15 140 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEBVWComSQghfpKUz/0NxN5QlxsA0FAmKvX6wACgkQ0NxN5Qlx
+sA1hiQ/+LP/oUJ2KmZ5UEncSBZwZ4sPLMawzrr0dPNtxV45yX9LrwZ2M02Ag+YP9
+m7FRJdbU5ke96XQ6rOvK7Tx0Sls0SKN/5haAnYQzAvRmiwoBQPmVnLdDRPiba+K2
+Z4aRaZL61B3SugYcvCWMB24X/hAD+dNDsOxnmBfxyp3TgLAf9ZZdhw3BvMBtRtc0
+OF4rIJFhYozMumtKozj+oUN4SlkvJ+jD12pYwd9H5XIBKPwX2ARsVg2FsOuw/Gal
+fwCtEGWmH9LZo5zoRl/pQuKh8wZUrXiJtxRV+VawSSHfI6czUB9Rz0fPdu3RlA/m
+L7S3L5JxAw5dEd5sT1MjMqS6gEB1tQYHuoUCnB28XxgRPMZ8NuzAzX+84uOZ6SBR
+0x7oQY0RcxRXELnfG3Z6ywZviKGYqXqLP/28Jdw4Y5zf+4Ct/f11vE73886CDgT1
+J3xzT+nyB4Ujz0HS24E6aB+aif8SWAjcrjU3vSs0aT55RYYnhsCeoqJp8PMtX5Bt
+JyEVOP0CzZITZozMryOaXeqBVfD4TfX9Xwj44rAqr3b82bRs66o0bWtSE2xEo2LD
+JzNEvcz1dT5hPmcrBLudR5BtEbk/Ai7cipJFCn12IY12KdTjI061MLFnGzfJ4Jud
+OTArzKhvK0RMXMQMTJ6Dt5IxVzrsvvoVs8F5xga/bOQxI9LXTFw=
+=yti0
+-----END PGP SIGNATURE-----
