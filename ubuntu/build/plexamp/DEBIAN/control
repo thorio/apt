@@ -1,0 +1,8 @@
+Package: plexamp
+Version: 4.2.2
+Maintainer: thorio <thorio.git@gmail.com>
+Architecture: amd64
+Section: sound
+Priority: optional
+Homepage: https://plexamp.com/#downloads
+Description: A beautiful Plex music player for audiophiles, curators, and hipsters.

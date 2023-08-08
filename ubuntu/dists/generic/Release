@@ -1,0 +1,19 @@
+Origin: thorio.github.io/apt/ubuntu
+Label: thorio.github.io/apt/ubuntu
+Codename: generic
+Date: Tue, 08 Aug 2023 08:36:44 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ b2c938fbc746ee590143ae585942ac06 9229 main/binary-amd64/Packages
+ 05e1f2fc30632253565fc02598ba1993 4061 main/binary-amd64/Packages.gz
+ 5c705f9e3865ecc465f7e6aecbeea103 140 main/binary-amd64/Release
+SHA1:
+ 4067fd23f01a3ffa37c49203f07082c846bf6555 9229 main/binary-amd64/Packages
+ 146acb8044351c92866fa710ee9c0a15e106a6d3 4061 main/binary-amd64/Packages.gz
+ 700bef10018fc6acf2fa3ef0d4bce9272a2d661f 140 main/binary-amd64/Release
+SHA256:
+ 981abc8bc418ee1129a8c6fd1937bb756a9d6c024b80d4b846453c75dff78352 9229 main/binary-amd64/Packages
+ 51421918be17702cc8077044f8008da46cbf05504a354605da24b374dab5fd24 4061 main/binary-amd64/Packages.gz
+ de26dba19111b820bd8803f6fdd9ce7f2a5bcd71980900c643755ce5067f0d15 140 main/binary-amd64/Release

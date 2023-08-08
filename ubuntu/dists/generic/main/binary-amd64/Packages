@@ -1,0 +1,228 @@
+Package: alacritty
+Version: 0.10.1+1-20220619T020303~jammy-92362428
+Architecture: amd64
+Maintainer: Michael Aaron Murphy <michael@system76.com>
+Installed-Size: 5829
+Depends: libc6 (>= 2.34), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.8), libgcc-s1 (>= 4.2), libxcb1 (>= 1.11.1)
+Recommends: xclip
+Homepage: https://github.com/jwilm/alacritty
+Priority: optional
+Section: rust
+Filename: pool/main/a/alacritty/alacritty_0.10.1+1-20220619T020303~jammy-92362428_amd64.deb
+Size: 1883002
+SHA256: c300f489b55f3f798fed50d9308d888d24a5641d5fabe8210eb2d197c1d7d94e
+SHA1: c14af40d63178e732bc12ef14df364171a188367
+MD5sum: 297d5cf83147b1f8fcec83a88e43f284
+Description: GPU-accelerated terminal emulator
+ GPU-accelerated terminal emulator, written in Rust
+
+Package: blent
+Architecture: amd64
+Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52
+Priority: extra
+Section: misc
+Filename: pool/main/b/blent/blent_0.4.1_amd64.deb
+Size: 7712496
+SHA256: 48efdf28cb67ba2bb8ae4151bf5b9e132ac0a0aa2fcf81300b25502296ce6212
+SHA1: 05c2b861dae7cf21c5991bbb0e22aafabbd67bef
+MD5sum: 166515ed48ab4dc6c8bc9c766cbdd01f
+Description: Package Description
+Installed-Size: 23686
+Maintainer: Thorou
+Version: 0.4.1
+
+Package: code
+Version: 1.81.0-1690980880
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.14), libc6 (>= 2.17), libc6 (>= 2.2.5), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.5.12), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.16.0), libglib2.0-0 (>= 2.39.4), libgssapi-krb5-2, libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.22), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libsecret-1-0 (>= 0.18), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.4.1), libxkbfile1, libxrandr2, xdg-utils (>= 1.0.2)
+Recommends: libvulkan1
+Architecture: amd64
+Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
+Homepage: https://code.visualstudio.com/
+Installed-Size: 372686
+Provides: visual-studio-code
+Conflicts: visual-studio-code
+Replaces: visual-studio-code
+Priority: optional
+Section: devel
+Filename: pool/main/c/code/code_1.81.0-1690980880_amd64.deb
+Size: 96337692
+SHA256: 9f85a05209f2b8b403acc48def3678eb5fcc469425b75183319583ffb6849870
+SHA1: 7057d5941910f13335656b5bec5aa742fd02002a
+MD5sum: 6a31f83b6a041827abbe96392f276ee8
+Description: Code editing. Redefined.
+ Visual Studio Code is a new choice of tool that combines the simplicity of
+ a code editor with what developers need for the core edit-build-debug cycle.
+ See https://code.visualstudio.com/docs/setup/linux for installation
+ instructions and FAQ.
+
+Package: espanso
+Version: 2.1.8
+Architecture: amd64
+Homepage: https://github.com/federico-terzi/espanso
+Maintainer: Federico Terzi <federicoterzi96@gmail.com>
+Installed-Size: 12649
+Depends: libdbus-1-3 (>= 1.9.14), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libgcc1 (>= 1:4.2), xclip, libwxgtk3.0-gtk3-0v5 (>= 3.0.4+dfsg), libxtst6, systemd, libstdc++6 (>= 6), libc6 (>= 2.18), libxkbcommon0 (>= 0.5.0), libnotify-bin, libxkbcommon0, libwxgtk3.0-gtk3-0v5, libx11-6, libxcb1
+Priority: optional
+Section: utility
+Filename: pool/main/e/espanso/espanso_2.1.8_amd64.deb
+Size: 3464312
+SHA256: b69c027ab86b70307797aa0f3e8735c10bbb5f86dd365b9ca9309c79a5095680
+SHA1: e305e5070789e43f22b1b2f4473ac43f76350165
+MD5sum: ad47b4fb9048ce230fba3728a5390c23
+Description: Cross-platform Text Expander written in Rust
+ ![espanso](images/logo_extended.png)
+ .
+ > A cross-platform Text Expander written in Rust
+ .
+ ![GitHub release (latest by
+ date)](https://img.shields.io/github/v/release/federico-terzi/espanso)
+ ![Language](https://img.shields.io/badge/language-rust-orange)
+ ![Platforms](https://img.shields.io/badge/platforms-Windows%2C%20macOS%20and%20Linux-blue)
+ ![License](https://img.shields.io/github/license/federico-terzi/espanso)
+ .
+ ![example](images/example.gif)
+ .
+ Visit the [espanso website](https://espanso.org).
+ .
+ #### What is a Text Expander?
+ .
+ A *text expander* is a program that detects when you type
+ a specific **keyword** and replaces it with **something else**. 
+ This is useful in many ways:
+ * **Save a lot of typing**, expanding common sentences.
+ * Create **system-wide** code snippets.
+ * Execute **custom scripts**
+ * Use **emojis** like a pro.
+ .
+ ___
+ .
+ ## Key Features
+ .
+ * Works on **Windows**, **macOS** and **Linux**
+ * Works with almost **any program**
+ * Works with **Emojis** 😄
+ * Works with **Images**
+ * Includes a powerful **Search Bar** 🔎
+ * **Date** expansion support
+ * **Custom scripts** support
+ * **Shell commands** support
+ * **App-specific** configurations
+ * Support [Forms](https://espanso.org/docs/matches/forms/)
+ * Expandable with **packages**
+ * Built-in **package manager** for [espanso hub](https://hub.espanso.org/)
+ * File based configuration
+ * Support Regex triggers
+ * Experimental Wayland support
+ .
+ ## Get Started
+ .
+ Visit the [official documentation](https://espanso.org/docs/).
+ .
+ ## Support
+ .
+ If you need some help to setup espanso, want to ask a question or simply get
+ involved
+ in the community, [Join the official
+ Subreddit](https://www.reddit.com/r/espanso/)! :)
+ .
+ .
+ .
+ ## Donations
+ .
+ espanso is a free, open source software developed in my (little) spare time.
+ If you liked the project and would like to support further development, 
+ please consider making a small donation, it really helps :)
+ .
+ [![Donate with
+ PayPal](images/donate.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FHNLR5DRS267E&source=url)
+ .
+ ## Contributors
+ .
+ Many people helped the project along the way, thank you to all of you!
+ .
+ <a href="https://github.com/federico-terzi/espanso/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=federico-terzi/espanso" />
+ </a>
+ .
+ ## Remarks
+ .
+ * Thanks to [libxdo](https://github.com/jordansissel/xdotool) and
+ [xclip](https://github.com/astrand/xclip), used to implement the Linux port.
+ * Thanks to [libxkbcommon](https://xkbcommon.org/) and
+ [wl-clipboard](https://github.com/bugaevc/wl-clipboard), used to implement the
+ Wayland port.
+ * Thanks to [wxWidgets](https://www.wxwidgets.org/) for providing a powerful
+ cross-platform GUI library.
+ .
+ ## License
+ .
+ espanso was created by [Federico Terzi](http://federicoterzi.com)
+ and is licensed under the [GPL-3.0 license](/LICENSE).
+
+Package: libinput-gestures
+Version: 2.69
+Architecture: all
+Maintainer: thorio <thorio.git@gmail.com>
+Depends: libinput-tools, python3, xdotool
+Recommends: wmctrl
+Homepage: https://github.com/thorio/libinput-gestures
+Priority: optional
+Section: utils
+Filename: pool/main/libi/libinput-gestures/libinput-gestures_2.69_all.deb
+Size: 17512
+SHA256: 03837b5ce8901172bc236603538b2218a46389c37786b887cd701a97fa359a13
+SHA1: ce1fb2b84e2e7c6052915432b070b5ed4780eaf5
+MD5sum: 89c0f8658865791df538e347d17a9754
+Description: Libinput-gestures is a utility which reads libinput
+  gestures from your touchpad and maps them to gestures you configure in a
+  configuration file. Each gesture can be configured to activate a shell
+  command which is typically an xdotool command to action
+  desktop/window/application keyboard combinations and commands.
+
+Package: plexamp
+Version: 4.2.2
+Maintainer: thorio <thorio.git@gmail.com>
+Architecture: amd64
+Homepage: https://plexamp.com/#downloads
+Priority: optional
+Section: sound
+Filename: pool/main/p/plexamp/plexamp_4.2.2_amd64.deb
+Size: 90135880
+SHA256: 1cd3ebf7706551f6a281d1c54ba4751a836d1609fd630b1182a58a03c82bd1e1
+SHA1: 7d9031e38500f2fd5df0093b734af2846f915e7c
+MD5sum: 5579f496dc7db3c3fdb587ecbfc97306
+Description: A beautiful Plex music player for audiophiles, curators, and hipsters.
+
+Package: rolr
+Version: 0.1.1+4504567
+Architecture: amd64
+Vcs-Browser: https://github.com/thorio/rolr
+Vcs-Git: https://github.com/thorio/rolr
+Maintainer: thorou <thorio.git@gmail.com>
+Installed-Size: 2464
+Priority: extra
+Section: utils
+Filename: pool/main/r/rolr/rolr_0.1.1+4504567_amd64.deb
+Size: 759128
+SHA256: b5a122be761384cbcbb6917532ec2ef13370f1b4e18359002680a188d3d1508a
+SHA1: d06bd6688a8967bd41ea4093ec5e1489e6330d24
+MD5sum: 4c9cfdbcf639ea0f9ac1839b388a1e85
+Description: host role manager built on top of ansible
+ # rolr
+ .
+ TODO
+
+Package: sunset-cursor-theme
+Version: 1.0
+Architecture: all
+Maintainer: thorio <thorio.git@gmail.com>
+Homepage: https://github.com/thorio/packaging/tree/master/sunset-cursor-theme
+Priority: optional
+Section: x11
+Filename: pool/main/s/sunset-cursor-theme/sunset-cursor-theme_1.0_all.deb
+Size: 138416
+SHA256: d9d8ac4088b9d9ad3ad37f1545e3395181cdecf05c6b7ce460f4a475ecca8523
+SHA1: 677618f485c283c997f2adc91d0ed82ad62bed7d
+MD5sum: 06546d0e81611bdc98a15cc20077f025
+Description: X11 cursor theme, made by yeyushengfan258 over at https://www.gnome-look.org/p/1602560
+

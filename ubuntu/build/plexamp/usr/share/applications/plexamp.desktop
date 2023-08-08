@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Plexamp
+Comment=A beautiful Plex music player for audiophiles, curators, and hipsters.
+GenericName=Music Player
+Exec=/usr/share/plexamp/plexamp
+Icon=plexamp
+Type=Application
+StartupWMClass=Plexamp
+Categories=AudioVideo;Audio;Player;Music
+Keywords=plexamp;plex;
