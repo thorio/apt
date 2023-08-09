@@ -24,7 +24,7 @@ blent:
 
 .PHONY: rolr
 rolr:
-	$(call deb,rolr,"https://github.com/thorio/rolr/releases/download/v0.1.1/rolr-x86_64.deb")
+	$(call deb,rolr,"https://github.com/thorio/rolr/releases/download/v0.1.2/rolr-x86_64.deb")
 
 .PHONY: code
 code:

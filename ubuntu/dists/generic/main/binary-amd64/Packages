@@ -194,7 +194,7 @@ MD5sum: 5579f496dc7db3c3fdb587ecbfc97306
 Description: A beautiful Plex music player for audiophiles, curators, and hipsters.
 
 Package: rolr
-Version: 0.1.1+4504567
+Version: 0.1.2+4c2eb92
 Architecture: amd64
 Vcs-Browser: https://github.com/thorio/rolr
 Vcs-Git: https://github.com/thorio/rolr
@@ -202,11 +202,11 @@ Maintainer: thorou <thorio.git@gmail.com>
 Installed-Size: 2464
 Priority: extra
 Section: utils
-Filename: pool/main/r/rolr/rolr_0.1.1+4504567_amd64.deb
-Size: 759128
-SHA256: b5a122be761384cbcbb6917532ec2ef13370f1b4e18359002680a188d3d1508a
-SHA1: d06bd6688a8967bd41ea4093ec5e1489e6330d24
-MD5sum: 4c9cfdbcf639ea0f9ac1839b388a1e85
+Filename: pool/main/r/rolr/rolr_0.1.2+4c2eb92_amd64.deb
+Size: 757572
+SHA256: 431f5b3da9da2a5509996d9b8462a316173638fc7a68a7c9badb2abb0c6ee089
+SHA1: 406815350ffa29be56b6f2edabcbc7120afc3ff7
+MD5sum: 5a3ea90a52ec9e54ee3ba614fdb091b4
 Description: host role manager built on top of ansible
  # rolr
  .
