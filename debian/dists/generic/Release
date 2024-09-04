@@ -1,0 +1,19 @@
+Origin: thorio.github.io/apt/debian
+Label: thorio.github.io/apt/debian
+Codename: generic
+Date: Wed, 04 Sep 2024 14:12:47 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ c0a21fac5fbfe2ad90d6845b01c01333 2179 main/binary-amd64/Packages
+ 87a87efac0e5fd78564e737fdb8720c1 1037 main/binary-amd64/Packages.gz
+ 9b63fcf5d23222071efd2544d13c9750 140 main/binary-amd64/Release
+SHA1:
+ a314c3bb3018abd01c2f0647de0ffb7f9cc5f501 2179 main/binary-amd64/Packages
+ 89ee1a11d147a5f77020e32f5a54196f0fab574e 1037 main/binary-amd64/Packages.gz
+ 316bb04e22d65dcef669908c8132a6cc1e9bf63e 140 main/binary-amd64/Release
+SHA256:
+ 8d4caa5b22061322fcbfac3c1082adbb7e5af54b82dffa39602340fb42c95b1b 2179 main/binary-amd64/Packages
+ 30d2184676b714fef0a60e13c45664c5d08abf13a7dbdc57b06e7f3654db19df 1037 main/binary-amd64/Packages.gz
+ 792d658f182f471549da292b1d07da6e8bd757c19731ae982e9251afaafa594e 140 main/binary-amd64/Release

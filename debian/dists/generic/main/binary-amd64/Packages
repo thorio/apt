@@ -1,0 +1,60 @@
+Package: blent
+Architecture: amd64
+Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52
+Priority: extra
+Section: misc
+Filename: pool/main/b/blent/blent_0.4.1_amd64.deb
+Size: 7712496
+SHA256: 48efdf28cb67ba2bb8ae4151bf5b9e132ac0a0aa2fcf81300b25502296ce6212
+SHA1: 05c2b861dae7cf21c5991bbb0e22aafabbd67bef
+MD5sum: 166515ed48ab4dc6c8bc9c766cbdd01f
+Description: Package Description
+Installed-Size: 23686
+Maintainer: Thorou
+Version: 0.4.1
+
+Package: gravel
+Architecture: amd64
+Version: 0.8.1
+Maintainer: thorou <thorou@chirality.de>
+Depends: libx11-6, libxinerama1, libxft2, libxext6, libxcursor1, libxrender1,
+ libxfixes3, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libpangoxft-1.0-0,
+ libglib2.0-0, libfontconfig1, libglu1-mesa, libgl1, coreutils, libgtk-3-bin,
+ xdg-utils
+Priority: extra
+Section: x11
+Filename: pool/main/g/gravel/gravel_0.8.1_amd64.deb
+Size: 1903326
+SHA256: 77f0057f5d7fd30ad32f934d4447cfd39d71a63b32d1bc69651bf272223b1b89
+SHA1: cf0ec47ce44eac0a0d0ced837f77c627bb579212
+MD5sum: fecd4278b0be8ab2e28d887d59b6ac8a
+Description: Cross-platform application launcher for Linux and Windows
+
+Package: rism
+Version: 0.1.0
+Architecture: amd64
+Installed-Size: 2475
+Maintainer: thorou
+Depends: libwebkit2gtk-4.0-37, libgtk-3-0
+Priority: extra
+Section: x11
+Filename: pool/main/r/rism/rism_0.1.0_amd64.deb
+Size: 863328
+SHA256: d545b98ba1339009111f81e0bd679a81c47ee28392f3e36480415b406a352546
+SHA1: b2ae8f3423c903fd3adea906792b9b4f875fcd71
+MD5sum: 189097514c7bf0635bfed07a5e345f9e
+Description: Application-specific browser based on tauri
+
+Package: rolr
+Architecture: amd64
+Version: 1.0.0
+Maintainer: thorou <thorou@chirality.de>
+Priority: extra
+Section: utils
+Filename: pool/main/r/rolr/rolr_1.0.0_amd64.deb
+Size: 382982
+SHA256: 03c7e9a55af95c0f52f575daabc20ef1c4905262750cd422eb895ddfe9459658
+SHA1: e4ede4a235d432eaf0edb910996704f766eba663
+MD5sum: a74ac0ca88180813fe6172d3fc2c4fa1
+Description: Host role manager built on top of ansible
+

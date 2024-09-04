@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: thorio.github.io/apt/debian
+Label: thorio.github.io/apt/debian
+Codename: generic
+Date: Wed, 04 Sep 2024 14:12:47 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ c0a21fac5fbfe2ad90d6845b01c01333 2179 main/binary-amd64/Packages
+ 87a87efac0e5fd78564e737fdb8720c1 1037 main/binary-amd64/Packages.gz
+ 9b63fcf5d23222071efd2544d13c9750 140 main/binary-amd64/Release
+SHA1:
+ a314c3bb3018abd01c2f0647de0ffb7f9cc5f501 2179 main/binary-amd64/Packages
+ 89ee1a11d147a5f77020e32f5a54196f0fab574e 1037 main/binary-amd64/Packages.gz
+ 316bb04e22d65dcef669908c8132a6cc1e9bf63e 140 main/binary-amd64/Release
+SHA256:
+ 8d4caa5b22061322fcbfac3c1082adbb7e5af54b82dffa39602340fb42c95b1b 2179 main/binary-amd64/Packages
+ 30d2184676b714fef0a60e13c45664c5d08abf13a7dbdc57b06e7f3654db19df 1037 main/binary-amd64/Packages.gz
+ 792d658f182f471549da292b1d07da6e8bd757c19731ae982e9251afaafa594e 140 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEBVWComSQghfpKUz/0NxN5QlxsA0FAmbYauAACgkQ0NxN5Qlx
+sA2n3Q/8Dn9JRTE/ctTSzw7Vevb8+7AYi2Qkw3MLtZJIR4HE/tfYR2B4i1bTWX3p
+zFV8mTPQ72YqqpGOux4YDJyrGkv9wiQEQS1gcyKnOE9FHa0BKnOXrd5LNioBdVbG
+r5Fm0rQUARnvPV8l9WNGAlkd46swRAvF39QlaPIi8N9CNBsbTijzh9edCSKIXFlb
+FlCQ+zIaxVToRry5rrqwPrwS1yg60xTtlwqDlrUNH0cBWMpsOkdGT5Km+x6FobGq
+2VBNZjiNLjPkb9e//53DakQv3grLJldbKMAJa/ok2NS1ofd2bv/SYvv+lYoIiq0V
+sDbvYuu8ldVuHJY8v9LuvRRnTy+UnMLu3iNMmRn4EUE++8iYEPCA3KZKqbdBuCkp
+H8IhX8ayzIRPuY4xjUaQzHMJTrjp6gtG4h/q3mDkWYFS4bEJtmcMYYZFc5l+poEl
+L2/N9UA+jdHVI2NQxK7noKdUwefdJSH452YsVO4ensuV31Y7iRfMSHA+t83MBUx1
+bqY1AqPJ7MndsD5TXsSjMXsZkcHaWA+WnDHIy+sTHF/hQLIZqRoV1aEa+Ymi7OpR
+NGddEIH290DuXXQ8RB/6y4ksh+ivolgwVmTNuSAVjm6IurqMo75LjIOZqW3Bhjso
+3sGqcbOUjtubOsJEOYBov1ox6To8uJ87CYGjHP6U8NUtJ+Wcmmk=
+=7urb
+-----END PGP SIGNATURE-----
