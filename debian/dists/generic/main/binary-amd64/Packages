@@ -1,0 +1,59 @@
+Package: blent
+Architecture: amd64
+Version: 0.6.0
+Maintainer: thorou <thorou@chirality.de>
+Priority: extra
+Section: x11
+Filename: pool/main/b/blent/blent_0.6.0_amd64.deb
+Size: 1097990
+SHA256: 5da1dba3517eb1a5b7b7f39c0249d74b76f34f0226ce3c9d770ee1bb865cd366
+SHA1: e855e9a87ecf9d6d03cd706a4cf0b9fee0088a83
+MD5sum: 00bd93716cb23a666d3598ca5c7de8d0
+Description: CLI for managing multiple docker-compose projects
+
+Package: gravel
+Architecture: amd64
+Version: 0.8.2
+Maintainer: thorou <thorou@chirality.de>
+Depends: libx11-6, libxinerama1, libxft2, libxext6, libxcursor1, libxrender1,
+ libxfixes3, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libpangoxft-1.0-0,
+ libglib2.0-0, libfontconfig1, libglu1-mesa, libgl1, coreutils, libgtk-3-bin,
+ xdg-utils
+Priority: extra
+Section: x11
+Filename: pool/main/g/gravel/gravel_0.8.2_amd64.deb
+Size: 1850786
+SHA256: cf6eecb253e3854074410980eb4b9afe1c4dd0f6e71aa9c246b36d713da21cc2
+SHA1: f2d827ec17bac07a8810a8039b39f73f188513c9
+MD5sum: d0bd9309643d4ff09750b21ebb05beeb
+Description: Cross-platform application launcher for Linux and Windows
+
+Package: rism
+Version: 2.0.0+031c8d46
+Architecture: amd64
+Installed-Size: 3679
+Maintainer: thorou
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: x11
+Filename: pool/main/r/rism/rism_2.0.0+031c8d46_amd64.deb
+Size: 1127080
+SHA256: ca3862a35edd36256896f115e7d26b5666c60af6bc9ffcbccd2d4c0121d9c475
+SHA1: 97a4cd0b0c5f8754f466002e570913d926c1bfa0
+MD5sum: ad7d7e180b40a783f74b52e885b0698d
+Description: Application-specific browser based on tauri
+ (none)
+
+Package: rolr
+Architecture: amd64
+Version: 1.1.1
+Maintainer: thorou <thorou@chirality.de>
+Priority: extra
+Section: utils
+Filename: pool/main/r/rolr/rolr_1.1.1_amd64.deb
+Size: 400372
+SHA256: 1d12548cdb751758f7d5bcd15371b75f647098f07193fdd94b0905ef359880ec
+SHA1: 8fa44de02a6de546c66443efa2679f560808786f
+MD5sum: a810d0cc0b6fabf90e8e4bd44045377a
+Description: Host role manager built on top of ansible
+

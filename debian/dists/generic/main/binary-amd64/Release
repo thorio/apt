@@ -1,0 +1,5 @@
+Component: main
+Origin: thorio.github.io/apt/debian
+Label: thorio.github.io/apt/debian
+Architecture: amd64
+Description: Personal repository

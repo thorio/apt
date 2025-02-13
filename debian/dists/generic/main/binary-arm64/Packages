@@ -1,0 +1,13 @@
+Package: rolr
+Architecture: arm64
+Version: 1.1.1
+Maintainer: thorou <thorou@chirality.de>
+Priority: extra
+Section: utils
+Filename: pool/main/r/rolr/rolr_1.1.1_arm64.deb
+Size: 367112
+SHA256: 63d0931cd94cc4776c9a44545ac57266c22142eac29b6a32669d8be7fcd99654
+SHA1: b272a3e8f4c58aa0f405700ffdb74fc61104ee88
+MD5sum: a93b0a26815744b11d49f4cddf872435
+Description: Host role manager built on top of ansible
+

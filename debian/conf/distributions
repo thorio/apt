@@ -1,0 +1,7 @@
+Origin: thorio.github.io/apt/debian
+Label: thorio.github.io/apt/debian
+Codename: generic
+Architectures: amd64 arm64
+Components: main
+Description: Personal repository
+SignWith: D0DC4DE50971B00D
