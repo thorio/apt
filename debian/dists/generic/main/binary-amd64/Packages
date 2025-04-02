@@ -13,7 +13,7 @@ Description: CLI for managing multiple docker-compose projects
 
 Package: gravel
 Architecture: amd64
-Version: 0.8.2
+Version: 0.8.3
 Maintainer: thorou <thorou@chirality.de>
 Depends: libx11-6, libxinerama1, libxft2, libxext6, libxcursor1, libxrender1,
  libxfixes3, libcairo2, libpango-1.0-0, libpangocairo-1.0-0, libpangoxft-1.0-0,
@@ -21,11 +21,11 @@ Depends: libx11-6, libxinerama1, libxft2, libxext6, libxcursor1, libxrender1,
  xdg-utils
 Priority: extra
 Section: x11
-Filename: pool/main/g/gravel/gravel_0.8.2_amd64.deb
-Size: 1850786
-SHA256: cf6eecb253e3854074410980eb4b9afe1c4dd0f6e71aa9c246b36d713da21cc2
-SHA1: f2d827ec17bac07a8810a8039b39f73f188513c9
-MD5sum: d0bd9309643d4ff09750b21ebb05beeb
+Filename: pool/main/g/gravel/gravel_0.8.3_amd64.deb
+Size: 1877740
+SHA256: 56e9955172507e6fd0c5afca63c7d0a3d0bbf8ca705b884e5643900f0640df1b
+SHA1: e6f662c0fd5bbd61e79c614fe110bfe0a759a682
+MD5sum: 8f9d44bc1a1aaa43372c706addd3923c
 Description: Cross-platform application launcher for Linux and Windows
 
 Package: rism
