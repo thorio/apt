@@ -49,7 +49,7 @@ td {
 }
 </style>
 
-# thorio's personal apt repo
+# thorou's personal apt repo
 
 This contains some of my software. These packages *should* work on debian and derivatives, though I don't know which versions specifically.
 

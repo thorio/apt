@@ -1,14 +1,14 @@
 Package: blent
 Architecture: amd64
-Version: 0.6.0
+Version: 0.6.1
 Maintainer: thorou <thorou@chirality.de>
 Priority: extra
 Section: x11
-Filename: pool/main/b/blent/blent_0.6.0_amd64.deb
-Size: 1097990
-SHA256: 5da1dba3517eb1a5b7b7f39c0249d74b76f34f0226ce3c9d770ee1bb865cd366
-SHA1: e855e9a87ecf9d6d03cd706a4cf0b9fee0088a83
-MD5sum: 00bd93716cb23a666d3598ca5c7de8d0
+Filename: pool/main/b/blent/blent_0.6.1_amd64.deb
+Size: 1335126
+SHA256: 464bf7e8c17d1dc53e7e918ec50327fa937ab012f2e0d09ae003e72b09d23b50
+SHA1: 4f70265214e995bd12974f8523cceffb1e26178b
+MD5sum: b878f266058ce4543d22198f771f374e
 Description: CLI for managing multiple docker-compose projects
 
 Package: gravel

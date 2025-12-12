@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: thorio.github.io/apt/debian
 Label: thorio.github.io/apt/debian
 Codename: generic
-Date: Wed, 02 Apr 2025 06:21:22 UTC
+Date: Fri, 12 Dec 2025 07:10:55 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Personal repository
 MD5Sum:
- 8751f6cb0f638e1cf39f1a28b069b82e 1944 main/binary-amd64/Packages
- b3450a7905102866a4a6861b1bf74829 968 main/binary-amd64/Packages.gz
+ 78452a78625887f1ced10d0f8ba83f22 1944 main/binary-amd64/Packages
+ 081af4ff0ba6b648a599cf17858d5b8c 969 main/binary-amd64/Packages.gz
  9b63fcf5d23222071efd2544d13c9750 140 main/binary-amd64/Release
  d737c2c2ca0dfa78972f306945d58d9f 399 main/binary-arm64/Packages
  a9d452de851422298c726efcb90f6c19 312 main/binary-arm64/Packages.gz
  8192cdfec02e825ec2c80df69ce93b51 140 main/binary-arm64/Release
 SHA1:
- 95cc7aae232665bfe191adbc764520db0ff049c1 1944 main/binary-amd64/Packages
- 8066d8cbdad812820a5ee4ac669af356c977dc8d 968 main/binary-amd64/Packages.gz
+ 67f466f482eb474866549cf793bfa0d100b78ffa 1944 main/binary-amd64/Packages
+ 1ea31f2225b07bd17886ceaa84504cc22decef5f 969 main/binary-amd64/Packages.gz
  316bb04e22d65dcef669908c8132a6cc1e9bf63e 140 main/binary-amd64/Release
  6f948ea86e0c554be5c0f43465aa2bdf95b09fab 399 main/binary-arm64/Packages
  e3f4ed6defc453df686b0266e5358bce946f4b24 312 main/binary-arm64/Packages.gz
  e8f2b959221bbb7110c9c880a5953092ae01e3c6 140 main/binary-arm64/Release
 SHA256:
- 89b1a4b32cd48b7d303f403e529d357f6e207e7871f31a4d2c112c5b681463cb 1944 main/binary-amd64/Packages
- cff57c7125f9a2cc63e7185e14e34d5b80aeb2ab53760fabe52d9ddd38a3e8e2 968 main/binary-amd64/Packages.gz
+ 392da02be5911441818b68895bf486963ef727f6958a04e98f34e46808eea820 1944 main/binary-amd64/Packages
+ 43285fa70c0a3ff53f87c095f892698cb324f18cd28f634f875b0bec2d0ead7f 969 main/binary-amd64/Packages.gz
  792d658f182f471549da292b1d07da6e8bd757c19731ae982e9251afaafa594e 140 main/binary-amd64/Release
  674484bd1e3a2c5c9543a08741a580364bd7b93e2433af2f19f93ea78f839e51 399 main/binary-arm64/Packages
  c6d1f1236ac961042d9b606a5bfa01d2a8276f53ba6781443a2be7a55051a969 312 main/binary-arm64/Packages.gz
  c6f4d0548f3794344fb36a98f64c6d3b2c3eacd638ad049900ab024b53078758 140 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEBVWComSQghfpKUz/0NxN5QlxsA0FAmfs12IACgkQ0NxN5Qlx
-sA3C7xAAo8LUesIzsaQ2LD/fzgo/NHBu3a1v5URRYHnc5iv64iftvYZwqpRFP+2D
-I00agmE125cX4IaqkjAtTIPs8Y/+X3uSRgf+jbR0GrgIA2xsL5snSgv864ZQlymu
-2WW2zuAmiNhpOCrz7/B7ixTvriYOex7nZ1qGh5aKEeS/nrUZSDMeIyty+JhHl6c/
-L5+wA8Gxuj6Mu8iqy/QSqWVXJHTOeNNbid/wksKRxn/CnS2wC4kJp0qmFzH1xE5F
-Hk6Ntl7VHn1O4F0u+h9gXVLp6xNwjNQTLnBvjmaHDvG8KQKjGzhBpNt3rHryLkjc
-kPh2a2tzNJeuWfj/srPOTeSu9sce6wMYTHO3Q0BTq03kaXmqwZujr1D44edcldB2
-Cdaz+fUoKEWZ+X7iNOgfDwVlMdcM2LUQ8l+toeVHbZmRHbLYby8p/UhPDBswCZap
-hkjTRSUlzaNk+7NQqLJ7UVSI7mt5dnEoa4m1ZTTSxW4zNLvNFUngrDfGA4+7y/CY
-CfD09Xw/lKc8efXCmQCGDEaIZusew4pw1WN1xTcNatiqQZqbhwPDRsVFJHe6KiOw
-G3jCbHaByaQCVl0aM1EYYFwpHq3C+G9brUN/JIsWsXFRT/x3U8uBmmrh/RtolirI
-4uw/3WG08/+a5vvA5I2pXhZlQYgd3KMDZctqOlGIJPIRqjGVgbg=
-=HEwg
+iQIzBAEBCgAdFiEEBVWComSQghfpKUz/0NxN5QlxsA0FAmk7v/8ACgkQ0NxN5Qlx
+sA0dgRAAtGVmZUcDcOy0+2uyIBDTp8ZGYGd4Xg8Mys//fzuimgrxNjlDVw1Oh0qL
+8rPlOXbbtGMIvv3QsqamqHOArJr470Y7b/afNFeHIJwVl/Z1Cw3t5L8CUD9Wi1to
+MiDvu4ZeOFzaDOKaP8r2AwSJv+vFXMfOFqcwFe9doZt1PbgIiTjm9DoP/EDu8IWR
+e0WGJTBdkOBqKAZu+umSnvMoWYorGBWs4zzJnfs6uBR1XaYoSP/x0p0Sij0C78IR
+A+J/5ojub+CnbkhW1OJ5MJfEIgU88YhP1axHFbOJyVcYZWSe61Ov37m0p46DLm8q
+UzZRjsiZobQP7hzfaDgEBmWU/F59a55CoF6mcpNj4O0q8yDzTy4R9CcXqpr75oBq
+bJxqubukdYraiuvmgiN31k1fEhKCLlbv29twuvB+2T+yVHViGOgUM0Fs6XIW6TuC
+RgWZscPyr1JhoaAXSLpSh6INGic97EJQMWcd9JjlIIhDc/G1pljpFPrTNfx9RIcz
+42L9MPbbCNH6aFGdOoT+moLqQnm9JJgWru3nMxqm0TXt3D/lgouDi+BAGRy/2Ucd
+hLBXbcgzI8OkhVFOGmlPUfI566ArW7+XYabHpXuiqgdCHVOnNDEkG+/M9NMd/wDK
+Ud/zxgy11WLRlMvizZ1eycRk//ggtkKCXDaH02jOXuuo4toEfWU=
+=D+pU
 -----END PGP SIGNATURE-----
