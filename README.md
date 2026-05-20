@@ -1,3 +1,3 @@
 # thorio's personal apt repo
 
-See: https://thorio.github.io/apt
+[301 Moved Permanently](https://forge.chirality.de/thorou/-/packages?q=&type=debian)
